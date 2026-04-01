@@ -1,3 +1,9 @@
+/* code written by
+md ahb mahin */
+/* 
+this is multi line comment writting procedure.
+*/
+
 #include<iostream>
 
 using namespace std;
